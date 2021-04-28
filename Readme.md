@@ -5,6 +5,7 @@
 <p>Livro de refêrencia: Python Crash Course: A Hands-On, Project-Based Introduction to Programming</p>
 
 <img src="https://raw.githubusercontent.com/RodrigoPiropo/ALIEN_INVASION/master/Screenshot.PNG">
+<img src="https://raw.githubusercontent.com/brunodarocha/Alien-invasion/master/Screenshot1.PNG">
 
 ## Como jogar?
 
